@@ -69,22 +69,22 @@ namespace roychoii_Assignment11
         protected global::System.Web.UI.WebControls.Label lblCheckOutDate;
 
         /// <summary>
-        /// totalCost control.
+        /// lbltotalCost control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label totalCost;
+        protected global::System.Web.UI.WebControls.Label lbltotalCost;
 
         /// <summary>
-        /// totalDays control.
+        /// lbltotalDays control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label totalDays;
+        protected global::System.Web.UI.WebControls.Label lbltotalDays;
 
         /// <summary>
         /// hotelImage control.
