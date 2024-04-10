@@ -6,11 +6,6 @@ namespace roychoii_Assignment11
 {
     public partial class Assignment11 : Page
     {
-        protected void Page_Load(object sender, EventArgs e)
-        {
-            
-        }
-
         protected void CalculateTotalCost(object sender, EventArgs e)
         {
             // Compute the total days in the reservation,
