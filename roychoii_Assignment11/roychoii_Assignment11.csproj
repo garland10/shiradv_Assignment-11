@@ -78,7 +78,9 @@
     <Compile Include="Assignment11.aspx.designer.cs">
       <DependentUpon>Assignment11.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Styling.cs" />
+    <Compile Include="Styling.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
